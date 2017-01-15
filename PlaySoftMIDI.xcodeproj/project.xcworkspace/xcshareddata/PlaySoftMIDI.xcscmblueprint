@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0C027876F573FBB0D4F3B6897817F1225BCCB80E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "061D3B86009A89E43F18485CEED5A347367525F6" : 9223372036854775807,
+    "0C027876F573FBB0D4F3B6897817F1225BCCB80E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "25997E88-F685-41E4-B261-69F9FB253EBA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "061D3B86009A89E43F18485CEED5A347367525F6" : "..",
+    "0C027876F573FBB0D4F3B6897817F1225BCCB80E" : "PlaySoftMIDI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PlaySoftMIDI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PlaySoftMIDI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "tk2-207-13499.vs.sakura.ne.jp:repo\/computer_music.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "061D3B86009A89E43F18485CEED5A347367525F6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ovtn\/PlaySoftMIDI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C027876F573FBB0D4F3B6897817F1225BCCB80E"
+    }
+  ]
+}
